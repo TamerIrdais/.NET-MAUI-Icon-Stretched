@@ -1,0 +1,1 @@
+"# .NET-MAUI-Icon-Stretched" 
